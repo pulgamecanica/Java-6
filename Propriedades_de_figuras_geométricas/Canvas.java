@@ -36,18 +36,4 @@ public class Canvas{
 		}
 		return result;
 	}
-	/*
-	/
-	public static void main(String[] args){
-		List<AbstractFigure> figures = new ArrayList<>();
-		figures.add(new Circle(1,1,1));
-		figures.add(new Rectangle(1,1,1,1));
-		figures.add(new Square(2,2,2));
-		for(AbstractFigure x: figures)
-			System.out.println(x);
-	}
-	*/
-
-
-
 }
